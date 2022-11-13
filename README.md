@@ -1,3 +1,3 @@
 # Привет! Меня зовут Мамзелев Денис. Возьмите меня работать на работу.
 
-![Me](/My%20page%20Github/img/Me.jpeg)
+<img src="img/Me.jpeg" alt="It's me">
